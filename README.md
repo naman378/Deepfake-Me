@@ -1,2 +1,2 @@
-# "DeepFake-Me"
-A Real Time Detection/Defence System
+# DeepFake-Me
+"A Real Time Detection/Defence System"
