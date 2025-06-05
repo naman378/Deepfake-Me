@@ -1,2 +1,3 @@
-# DeepFake-Me
-"A Real Time Detection/Defence System"
+# DeepFake-Me "A Defence System"
+Real Time Detection That Protects You.
+
